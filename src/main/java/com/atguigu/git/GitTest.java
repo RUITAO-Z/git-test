@@ -1,0 +1,11 @@
+package com.atguigu.git;
+
+/**
+ * @author RuiTao
+ * @create 2022-07-03-12:51
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git!");
+    }
+}
